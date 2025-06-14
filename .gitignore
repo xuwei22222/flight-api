@@ -1,0 +1,5 @@
+*.class
+target/classes/application.properties
+target/classes/application.yml
+target/classes/data.sql
+target/classes/schema.sql
